@@ -2,4 +2,5 @@
 Set up
 `Install` -> Sql Server, Power BI
 
-**Using various charts proper visual the dashbord is done.**
+**Using various charts & proper visual the dashbord is done.**
+
